@@ -7,7 +7,7 @@ internal class Program
         Console.Title = "Спринт #1 | Выполнила: Акопова Л. В. | АСОиУб-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #2                                                               *");
-        Console.WriteLine("* Тема:  Оператор if – полная и короткая форма записи                     *");
+        Console.WriteLine("* Тема:  Оператор if – полная и короткая фоpма записи                     *");
         Console.WriteLine("* Задание #2                                                              *");
         Console.WriteLine("* Вариант #29                                                             *");
         Console.WriteLine("* Выполнила: Акопова Людмила Владимировна | АСОиУб-25-1                   *");

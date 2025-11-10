@@ -9,7 +9,7 @@ namespace Tyuiu.AkopovaLV.Sprint2.Task3.V16.Test
         {
             DataService ds = new DataService();
             double x = 3;
-            double y = ds.Calculate(x);
+            double y = ds.Calculate(x );
             double wait = 11;
             Assert.AreEqual(wait, y);
         }
