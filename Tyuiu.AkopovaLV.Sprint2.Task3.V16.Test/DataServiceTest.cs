@@ -2,7 +2,7 @@
 namespace Tyuiu.AkopovaLV.Sprint2.Task3.V16.Test
 {
     [TestClass]
-    public sealed class DataServiceTest : IDataServiceTest
+    public sealed class DataServiceTest 
     {
         [TestMethod]
         public void TestMethod1()
